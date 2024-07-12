@@ -1,0 +1,2109 @@
+{
+  "guild": {
+    "id": "444549359745499146",
+    "name": "Shallot Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/444549359745499146/f1b0e6840da8e749a2f3debf688e1ad1.png?size=512"
+  },
+  "channel": {
+    "id": "1114213068851912735",
+    "type": "GuildTextChat",
+    "categoryId": "1115310722042306601",
+    "category": "☕ COFFEE GOLF",
+    "name": "coffee-golf-scorecard-share",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2024-07-08T00:00:00-04:00",
+    "before": "2024-07-09T00:00:00-04:00"
+  },
+  "exportedAt": "2024-07-10T14:05:01.8727482-04:00",
+  "messages": [
+    {
+      "id": "1259743266723856434",
+      "type": "Default",
+      "timestamp": "2024-07-08T01:29:59.685-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n10 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE8\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFEA\uD83D\uDFE6\n2️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "874346460399931462",
+        "name": "els268",
+        "discriminator": "0000",
+        "nickname": "Els268",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259758274421587988",
+      "type": "Default",
+      "timestamp": "2024-07-08T02:29:37.799-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n9 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\n2️⃣1️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "184128617117253642",
+        "name": "justatree",
+        "discriminator": "0000",
+        "nickname": "Just a tree",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1252711892087083018",
+            "name": "21 Letters",
+            "color": "#3498DB",
+            "position": 5
+          },
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/184128617117253642/20c4bc3a76a574582473f1b2ffcb0e6d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259810670300495883",
+      "type": "Default",
+      "timestamp": "2024-07-08T05:57:49.95-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n10 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\n2️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "630096987160707085",
+        "name": "offseid",
+        "discriminator": "0000",
+        "nickname": "Eric",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630096987160707085/202acdee0e278ec888e90586d620794d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259811193238065222",
+      "type": "Default",
+      "timestamp": "2024-07-08T05:59:54.628-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n10 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\n2️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "646671910515769364",
+        "name": "bertramniblitz",
+        "discriminator": "0000",
+        "nickname": "BertramNiblitz",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/646671910515769364/902a767aa5c12138f6515c8cdc773eb7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259818773301694542",
+      "type": "Default",
+      "timestamp": "2024-07-08T06:30:01.856-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n9 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\n2️⃣2️⃣2️⃣2️⃣1️⃣",
+      "author": {
+        "id": "889237643429281792",
+        "name": "chumsofchance",
+        "discriminator": "0000",
+        "nickname": "Chums of Chance",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/889237643429281792/ef2ff0f747675d118e5c0dd75538cf4f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259822963033899050",
+      "type": "Default",
+      "timestamp": "2024-07-08T06:46:40.766-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n10 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\uD83D\uDFE9\uD83D\uDFE5\n2️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "598972489414082567",
+        "name": "fadedspice.",
+        "discriminator": "0000",
+        "nickname": "FadedSpice",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/598972489414082567/ed4d0e77ba6247bba5fba8f376ae02c5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259826756920016998",
+      "type": "Default",
+      "timestamp": "2024-07-08T07:01:45.299-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 6\n10 Strokes - Top 5% \uD83C\uDFC5\n\n\uD83D\uDFE9\uD83D\uDFE6\uD83D\uDFEA\uD83D\uDFE5\uD83D\uDFE8\n2️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "503652998971523093",
+        "name": "casen2944",
+        "discriminator": "0000",
+        "nickname": "casenD 11",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259828656029827103",
+      "type": "Default",
+      "timestamp": "2024-07-08T07:09:18.082-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 7\n10 Strokes - Top 10% \uD83C\uDF97️\n\n\uD83D\uDFEA\uD83D\uDFE8\uD83D\uDFE6\uD83D\uDFE9\uD83D\uDFE5\n2️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "503652998971523093",
+        "name": "casen2944",
+        "discriminator": "0000",
+        "nickname": "casenD 11",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259828815752986687",
+      "type": "Default",
+      "timestamp": "2024-07-08T07:09:56.163-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n10 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\n2️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "458295282573246474",
+        "name": "grunton",
+        "discriminator": "0000",
+        "nickname": "grunton",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259831413327401093",
+      "type": "Default",
+      "timestamp": "2024-07-08T07:20:15.473-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n9 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE9\uD83D\uDFE5\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\n1️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "458295282573246474",
+        "name": "grunton",
+        "discriminator": "0000",
+        "nickname": "grunton",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259844995968405564",
+      "type": "Default",
+      "timestamp": "2024-07-08T08:14:13.827-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n13 Strokes - Top 50% \n\n\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\uD83D\uDFE9\uD83D\uDFE5\n2️⃣2️⃣2️⃣4️⃣3️⃣",
+      "author": {
+        "id": "562467018142515211",
+        "name": ".andrewyoung",
+        "discriminator": "0000",
+        "nickname": "GoldenRoad473",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562467018142515211/1dc7af6ecb4642b5807d509401994c0a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259845630788898886",
+      "type": "Default",
+      "timestamp": "2024-07-08T08:16:45.18-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n8 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE8\uD83D\uDFE6\uD83D\uDFEA\uD83D\uDFE9\uD83D\uDFE5\n1️⃣2️⃣1️⃣2️⃣2️⃣",
+      "author": {
+        "id": "385100222361108481",
+        "name": "kdkilljoy",
+        "discriminator": "0000",
+        "nickname": "kdkilljoy",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/385100222361108481/7997e9afb016e4e32b2098f43313c45b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDFC6",
+            "code": "trophy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3c6.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "417371664859267075",
+              "name": "mightymatt.",
+              "discriminator": "0000",
+              "nickname": "MightyMatt",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+            },
+            {
+              "id": "459392758122020880",
+              "name": "avi_sarma",
+              "discriminator": "0000",
+              "nickname": "avi_sarma",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/459392758122020880/03482c7f42444b9edb5dac25e79d5ce6.png?size=512"
+            },
+            {
+              "id": "1091375237557391391",
+              "name": "joshmaxsilverman",
+              "discriminator": "0000",
+              "nickname": "joshmaxsilverman",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1091375237557391391/5445ffd7ffb201a98393cbdf684ea4b1.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1259851604195020882",
+      "type": "Default",
+      "timestamp": "2024-07-08T08:40:29.351-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n9 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE9\uD83D\uDFE5\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\n1️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "770103338133094450",
+        "name": "callmedragon937",
+        "discriminator": "0000",
+        "nickname": "Night Hawk",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/770103338133094450/4fbb05ee3511a07430204abe4457fbe0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259856317485682781",
+      "type": "Reply",
+      "timestamp": "2024-07-08T08:59:13.087-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nice job. Red is NOT an easy 2 to end the run. \uD83D\uDE42",
+      "author": {
+        "id": "417371664859267075",
+        "name": "mightymatt.",
+        "discriminator": "0000",
+        "nickname": "MightyMatt",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "385100222361108481",
+          "name": "kdkilljoy",
+          "discriminator": "0000",
+          "nickname": "kdkilljoy",
+          "color": "#A7FF00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1122853970675781695",
+              "name": "Coffee Golf",
+              "color": "#A7FF00",
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/385100222361108481/7997e9afb016e4e32b2098f43313c45b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1259845630788898886",
+        "channelId": "1114213068851912735",
+        "guildId": "444549359745499146"
+      }
+    },
+    {
+      "id": "1259857733323063327",
+      "type": "Default",
+      "timestamp": "2024-07-08T09:04:50.649-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n9 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE8\uD83D\uDFE6\uD83D\uDFEA\uD83D\uDFE9\uD83D\uDFE5\n1️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "462240921019482112",
+        "name": "extinks",
+        "discriminator": "0000",
+        "nickname": "Extinks",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          },
+          {
+            "id": "807261771182243850",
+            "name": "Tides",
+            "color": "#9DEFD7",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/462240921019482112/807ee4086d020573c363cd40891cb313.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259859619686256784",
+      "type": "Default",
+      "timestamp": "2024-07-08T09:12:20.393-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n9 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFE6\uD83D\uDFEA\n2️⃣2️⃣2️⃣2️⃣1️⃣",
+      "author": {
+        "id": "460231962934771724",
+        "name": ".turdfurgeson",
+        "discriminator": "0000",
+        "nickname": "TurdFurgeson",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/460231962934771724/c4cf55d3bac6bffd8814cd4299089e6f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259865819358302208",
+      "type": "Default",
+      "timestamp": "2024-07-08T09:36:58.51-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n10 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\n2️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "576458450188632076",
+        "name": "boatbutter",
+        "discriminator": "0000",
+        "nickname": "boatbutter",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/576458450188632076/5af0a4d4a1ad267eea81572c4d7d57d6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259867154287824997",
+      "type": "Default",
+      "timestamp": "2024-07-08T09:42:16.782-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n9 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFE6\uD83D\uDFEA\n2️⃣2️⃣2️⃣2️⃣1️⃣",
+      "author": {
+        "id": "417367554659581952",
+        "name": "618er",
+        "discriminator": "0000",
+        "nickname": "618er",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417367554659581952/c633e95b57cbb2a42b1a0bf3e1e70472.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259870553981063278",
+      "type": "Default",
+      "timestamp": "2024-07-08T09:55:47.332-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n10 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\n2️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "459392758122020880",
+        "name": "avi_sarma",
+        "discriminator": "0000",
+        "nickname": "avi_sarma",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "807262102233677844",
+            "name": "Vista Golf",
+            "color": "#2ECC71",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/459392758122020880/03482c7f42444b9edb5dac25e79d5ce6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259870648306499608",
+      "type": "Default",
+      "timestamp": "2024-07-08T09:56:09.821-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n10 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\n2️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "343790852235067394",
+        "name": "nsertnamehere",
+        "discriminator": "0000",
+        "nickname": "nsertnamehere",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343790852235067394/c317052b24b5e7343ebf3bdb304a6038.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259871044160979016",
+      "type": "Default",
+      "timestamp": "2024-07-08T09:57:44.2-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n8 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE8\uD83D\uDFE6\uD83D\uDFEA\uD83D\uDFE9\uD83D\uDFE5\n1️⃣2️⃣1️⃣2️⃣2️⃣\n\nThis is the way. I think green could even be a dunk in an extra power rng situation",
+      "author": {
+        "id": "1195050352223994003",
+        "name": "databoyzgaming",
+        "discriminator": "0000",
+        "nickname": "DataBoyzGaming",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "529909009252220948",
+              "name": "travishi",
+              "discriminator": "0000",
+              "nickname": "TravisHi",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/529909009252220948/a9fb5c1244ede0e380f529d29b518d1f.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1259872235204907050",
+      "type": "Default",
+      "timestamp": "2024-07-08T10:02:28.167-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yep. I haven't landed a green yet... but it's possible.",
+      "author": {
+        "id": "417371664859267075",
+        "name": "mightymatt.",
+        "discriminator": "0000",
+        "nickname": "MightyMatt",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259880789680853014",
+      "type": "Default",
+      "timestamp": "2024-07-08T10:36:27.713-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n8 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE8\uD83D\uDFE6\uD83D\uDFEA\uD83D\uDFE9\uD83D\uDFE5\n1️⃣2️⃣1️⃣2️⃣2️⃣\nGlad I got this out of the way before work today",
+      "author": {
+        "id": "462240921019482112",
+        "name": "extinks",
+        "discriminator": "0000",
+        "nickname": "Extinks",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          },
+          {
+            "id": "807261771182243850",
+            "name": "Tides",
+            "color": "#9DEFD7",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/462240921019482112/807ee4086d020573c363cd40891cb313.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259884438213492837",
+      "type": "Reply",
+      "timestamp": "2024-07-08T10:50:57.591-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks! For sure",
+      "author": {
+        "id": "385100222361108481",
+        "name": "kdkilljoy",
+        "discriminator": "0000",
+        "nickname": "kdkilljoy",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/385100222361108481/7997e9afb016e4e32b2098f43313c45b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "417371664859267075",
+          "name": "mightymatt.",
+          "discriminator": "0000",
+          "nickname": "MightyMatt",
+          "color": "#A7FF00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1122853970675781695",
+              "name": "Coffee Golf",
+              "color": "#A7FF00",
+              "position": 4
+            },
+            {
+              "id": "1138933482911973459",
+              "name": "Coffee Golf Tester",
+              "color": "#009221",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1259856317485682781",
+        "channelId": "1114213068851912735",
+        "guildId": "444549359745499146"
+      }
+    },
+    {
+      "id": "1259885423354839212",
+      "type": "Default",
+      "timestamp": "2024-07-08T10:54:52.467-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n12 Strokes - Top 50% \n\n\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\uD83D\uDFE5\n1️⃣2️⃣2️⃣2️⃣5️⃣",
+      "author": {
+        "id": "715939860556546091",
+        "name": "retrogamer1985",
+        "discriminator": "0000",
+        "nickname": "RetroGamer1985",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/715939860556546091/41b11302d9687dac025275945fcd2545.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259888721684070410",
+      "type": "Default",
+      "timestamp": "2024-07-08T11:07:58.85-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n8 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE8\uD83D\uDFE6\uD83D\uDFEA\uD83D\uDFE9\uD83D\uDFE5\n1️⃣2️⃣1️⃣2️⃣2️⃣",
+      "author": {
+        "id": "531306630000934922",
+        "name": "coltstreet",
+        "discriminator": "0000",
+        "nickname": "COLTstreet",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531306630000934922/c939d540dcd2b2d6cb1ba0970195c71b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259894046944399380",
+      "type": "Default",
+      "timestamp": "2024-07-08T11:29:08.491-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n13 Strokes - Top 50% \n\n\uD83D\uDFE8\uD83D\uDFE9\uD83D\uDFE5\uD83D\uDFE6\uD83D\uDFEA\n2️⃣3️⃣3️⃣3️⃣2️⃣",
+      "author": {
+        "id": "263445011918487552",
+        "name": "ashthecorgi",
+        "discriminator": "0000",
+        "nickname": "♕♡⚘٨ຣん⚘♡♕",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/263445011918487552/7d26fb634bbe1a5b85fee8cc4f358e51.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259909596928282765",
+      "type": "Default",
+      "timestamp": "2024-07-08T12:30:55.896-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was able to start with 1-1-1 by going green-blue-purple, but getting yellow and red each in 2 after that for the 7 is very difficult",
+      "author": {
+        "id": "986098403190657045",
+        "name": "tmac4pro1418",
+        "discriminator": "0000",
+        "nickname": "Tmac4pro",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/986098403190657045/66f8226b88ffcc759566788bbe7b869c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259912367928512553",
+      "type": "Default",
+      "timestamp": "2024-07-08T12:41:56.554-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I hit the purple once so far, but then red in 3. I don't know why I'm struggling with purple so much today.",
+      "author": {
+        "id": "417371664859267075",
+        "name": "mightymatt.",
+        "discriminator": "0000",
+        "nickname": "MightyMatt",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259915506580717630",
+      "type": "Default",
+      "timestamp": "2024-07-08T12:54:24.867-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n10 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\n2️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "1242757833284648963",
+        "name": "mjinthebay",
+        "discriminator": "0000",
+        "nickname": "mjitb",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1242757833284648963/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259923570859966587",
+      "type": "Default",
+      "timestamp": "2024-07-08T13:26:27.541-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Tmac4pro can go:\n\n\uD83D\uDFE8\uD83D\uDFE6\uD83D\uDFEA\uD83D\uDFE9\uD83D\uDFE5\n1️⃣2️⃣1️⃣1️⃣2️⃣\n\nCan get green with a lucky full power drive. Or if you miss you can take a short dunk on \uD83D\uDFE5 and then apply the minimum power to cleanly hop the platform and can get \uD83D\uDFE9 in one with a three-hop",
+      "author": {
+        "id": "410265329822990347",
+        "name": "honestlynotsureman",
+        "discriminator": "0000",
+        "nickname": "ParTeeTime",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "986098403190657045",
+              "name": "tmac4pro1418",
+              "discriminator": "0000",
+              "nickname": "Tmac4pro",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/986098403190657045/66f8226b88ffcc759566788bbe7b869c.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "986098403190657045",
+          "name": "tmac4pro1418",
+          "discriminator": "0000",
+          "nickname": "Tmac4pro",
+          "color": "#A7FF00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1122853970675781695",
+              "name": "Coffee Golf",
+              "color": "#A7FF00",
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/986098403190657045/66f8226b88ffcc759566788bbe7b869c.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1259955995560378388",
+      "type": "Default",
+      "timestamp": "2024-07-08T15:35:18.192-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n10 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\n2️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "340105733368446987",
+        "name": "coreyjl",
+        "discriminator": "0000",
+        "nickname": "coreyjl",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259960420328931338",
+      "type": "Default",
+      "timestamp": "2024-07-08T15:52:53.139-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I give up on today. Stuck at 9.",
+      "author": {
+        "id": "417371664859267075",
+        "name": "mightymatt.",
+        "discriminator": "0000",
+        "nickname": "MightyMatt",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE02",
+            "code": "joy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f602.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "396879384210046978",
+              "name": "codeman_ai",
+              "discriminator": "0000",
+              "nickname": "codeman",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/396879384210046978/3b162deebbdd8cb61c08404afb3d4435.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1259960459520381120",
+      "type": "Default",
+      "timestamp": "2024-07-08T15:53:02.483-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "417371664859267075",
+        "name": "mightymatt.",
+        "discriminator": "0000",
+        "nickname": "MightyMatt",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1259960459298078730",
+          "url": "https://cdn.discordapp.com/attachments/1114213068851912735/1259960459298078730/IMG_0984.png?ex=668f8f5e&is=668e3dde&hm=d6c1182bcc02dfdfea8a5c1979b7242a5f7aedc2c2aac4a2ab40efb7bf5a6f60&",
+          "fileName": "IMG_0984.png",
+          "fileSizeBytes": 359213
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259961064901316680",
+      "type": "Reply",
+      "timestamp": "2024-07-08T15:55:26.817-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bounce off the barn for a rollback for purple",
+      "author": {
+        "id": "410265329822990347",
+        "name": "honestlynotsureman",
+        "discriminator": "0000",
+        "nickname": "ParTeeTime",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "529909009252220948",
+              "name": "travishi",
+              "discriminator": "0000",
+              "nickname": "TravisHi",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/529909009252220948/a9fb5c1244ede0e380f529d29b518d1f.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "417371664859267075",
+          "name": "mightymatt.",
+          "discriminator": "0000",
+          "nickname": "MightyMatt",
+          "color": "#A7FF00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1122853970675781695",
+              "name": "Coffee Golf",
+              "color": "#A7FF00",
+              "position": 4
+            },
+            {
+              "id": "1138933482911973459",
+              "name": "Coffee Golf Tester",
+              "color": "#009221",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1259960420328931338",
+        "channelId": "1114213068851912735",
+        "guildId": "444549359745499146"
+      }
+    },
+    {
+      "id": "1259961270493515828",
+      "type": "Reply",
+      "timestamp": "2024-07-08T15:56:15.834-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Otherwise you can get it to bounce in on a regular shot if you do like 5 clicks past when the circle clears the cliff, but it will be coming in a bit hot",
+      "author": {
+        "id": "410265329822990347",
+        "name": "honestlynotsureman",
+        "discriminator": "0000",
+        "nickname": "ParTeeTime",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "417371664859267075",
+          "name": "mightymatt.",
+          "discriminator": "0000",
+          "nickname": "MightyMatt",
+          "color": "#A7FF00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1122853970675781695",
+              "name": "Coffee Golf",
+              "color": "#A7FF00",
+              "position": 4
+            },
+            {
+              "id": "1138933482911973459",
+              "name": "Coffee Golf Tester",
+              "color": "#009221",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1259960459520381120",
+        "channelId": "1114213068851912735",
+        "guildId": "444549359745499146"
+      }
+    },
+    {
+      "id": "1259980836950904852",
+      "type": "Reply",
+      "timestamp": "2024-07-08T17:14:00.841-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Where have I seen that today?  \uD83D\uDE09",
+      "author": {
+        "id": "529909009252220948",
+        "name": "travishi",
+        "discriminator": "0000",
+        "nickname": "TravisHi",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/529909009252220948/a9fb5c1244ede0e380f529d29b518d1f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "410265329822990347",
+          "name": "honestlynotsureman",
+          "discriminator": "0000",
+          "nickname": "ParTeeTime",
+          "color": "#A7FF00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1122853970675781695",
+              "name": "Coffee Golf",
+              "color": "#A7FF00",
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1259961064901316680",
+        "channelId": "1114213068851912735",
+        "guildId": "444549359745499146"
+      }
+    },
+    {
+      "id": "1259986609131225260",
+      "type": "Reply",
+      "timestamp": "2024-07-08T17:36:57.036-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtube.com/shorts/rLSVGvGQvZc?si=muip_pQcIQfo0xIv had to do it a second time to record but hopefully my pathing helps",
+      "author": {
+        "id": "462240921019482112",
+        "name": "extinks",
+        "discriminator": "0000",
+        "nickname": "Extinks",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          },
+          {
+            "id": "807261771182243850",
+            "name": "Tides",
+            "color": "#9DEFD7",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/462240921019482112/807ee4086d020573c363cd40891cb313.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Coffee Golf July 8th top 1%",
+          "url": "https://www.youtube.com/watch?v=rLSVGvGQvZc",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "author": {
+            "name": "Extinks",
+            "url": "https://www.youtube.com/channel/UCaZpp1B1QfDdJtZ1hORhTFg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/rlDmhT4ocWqdqZPk1Xh9yTK_NbLiJZNehIgHH1Mivbk/https/i.ytimg.com/vi/rLSVGvGQvZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/rLSVGvGQvZc",
+            "width": 405,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF89",
+            "code": "tada",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f389.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "417371664859267075",
+              "name": "mightymatt.",
+              "discriminator": "0000",
+              "nickname": "MightyMatt",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+            },
+            {
+              "id": "529909009252220948",
+              "name": "travishi",
+              "discriminator": "0000",
+              "nickname": "TravisHi",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/529909009252220948/a9fb5c1244ede0e380f529d29b518d1f.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "417371664859267075",
+          "name": "mightymatt.",
+          "discriminator": "0000",
+          "nickname": "MightyMatt",
+          "color": "#A7FF00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1122853970675781695",
+              "name": "Coffee Golf",
+              "color": "#A7FF00",
+              "position": 4
+            },
+            {
+              "id": "1138933482911973459",
+              "name": "Coffee Golf Tester",
+              "color": "#009221",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1259960420328931338",
+        "channelId": "1114213068851912735",
+        "guildId": "444549359745499146"
+      }
+    },
+    {
+      "id": "1259987844454420561",
+      "type": "Default",
+      "timestamp": "2024-07-08T17:41:51.56-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Got it. \uD83D\uDE42 I actually tried for the green 1, and was able to roll back for the 2.",
+      "author": {
+        "id": "417371664859267075",
+        "name": "mightymatt.",
+        "discriminator": "0000",
+        "nickname": "MightyMatt",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259988005750571088",
+      "type": "Reply",
+      "timestamp": "2024-07-08T17:42:30.016-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah I’m debating if I should go for the 7 or not lol",
+      "author": {
+        "id": "462240921019482112",
+        "name": "extinks",
+        "discriminator": "0000",
+        "nickname": "Extinks",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          },
+          {
+            "id": "807261771182243850",
+            "name": "Tides",
+            "color": "#9DEFD7",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/462240921019482112/807ee4086d020573c363cd40891cb313.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "417371664859267075",
+          "name": "mightymatt.",
+          "discriminator": "0000",
+          "nickname": "MightyMatt",
+          "color": "#A7FF00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1122853970675781695",
+              "name": "Coffee Golf",
+              "color": "#A7FF00",
+              "position": 4
+            },
+            {
+              "id": "1138933482911973459",
+              "name": "Coffee Golf Tester",
+              "color": "#009221",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1259987844454420561",
+        "channelId": "1114213068851912735",
+        "guildId": "444549359745499146"
+      }
+    },
+    {
+      "id": "1259988171597545513",
+      "type": "Default",
+      "timestamp": "2024-07-08T17:43:09.557-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There are 2 other days I can improve by a shot… so I’ll work on that first.",
+      "author": {
+        "id": "417371664859267075",
+        "name": "mightymatt.",
+        "discriminator": "0000",
+        "nickname": "MightyMatt",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259991393309425684",
+      "type": "Default",
+      "timestamp": "2024-07-08T17:55:57.673-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 7\n8 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE8\uD83D\uDFE6\uD83D\uDFE9\uD83D\uDFE5\uD83D\uDFEA\n1️⃣2️⃣1️⃣2️⃣2️⃣\n\nLet’s go I went back and got the 8 for yesterday",
+      "author": {
+        "id": "462240921019482112",
+        "name": "extinks",
+        "discriminator": "0000",
+        "nickname": "Extinks",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          },
+          {
+            "id": "807261771182243850",
+            "name": "Tides",
+            "color": "#9DEFD7",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/462240921019482112/807ee4086d020573c363cd40891cb313.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1260001848442749009",
+      "type": "Default",
+      "timestamp": "2024-07-08T18:37:30.371-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 6\n6 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE9\uD83D\uDFE6\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE5\n1️⃣1️⃣1️⃣1️⃣2️⃣\nFirst retry of the 6th let’s gooo!",
+      "author": {
+        "id": "462240921019482112",
+        "name": "extinks",
+        "discriminator": "0000",
+        "nickname": "Extinks",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          },
+          {
+            "id": "807261771182243850",
+            "name": "Tides",
+            "color": "#9DEFD7",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/462240921019482112/807ee4086d020573c363cd40891cb313.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 4,
+          "users": [
+            {
+              "id": "410265329822990347",
+              "name": "honestlynotsureman",
+              "discriminator": "0000",
+              "nickname": "ParTeeTime",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+            },
+            {
+              "id": "476518448109715468",
+              "name": "bentley74s",
+              "discriminator": "0000",
+              "nickname": "bentley74s",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+            },
+            {
+              "id": "986098403190657045",
+              "name": "tmac4pro1418",
+              "discriminator": "0000",
+              "nickname": "Tmac4pro",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/986098403190657045/66f8226b88ffcc759566788bbe7b869c.png?size=512"
+            },
+            {
+              "id": "1195050352223994003",
+              "name": "databoyzgaming",
+              "discriminator": "0000",
+              "nickname": "DataBoyzGaming",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1260008550973964299",
+      "type": "Reply",
+      "timestamp": "2024-07-08T19:04:08.379-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nice. I’m at 8. Gonna have to grind this one. lol.",
+      "author": {
+        "id": "417371664859267075",
+        "name": "mightymatt.",
+        "discriminator": "0000",
+        "nickname": "MightyMatt",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417371664859267075/f07248bfdd327b8fb9b343ea935c0b18.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "462240921019482112",
+          "name": "extinks",
+          "discriminator": "0000",
+          "nickname": "Extinks",
+          "color": "#A7FF00",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1122853970675781695",
+              "name": "Coffee Golf",
+              "color": "#A7FF00",
+              "position": 4
+            },
+            {
+              "id": "1138933482911973459",
+              "name": "Coffee Golf Tester",
+              "color": "#009221",
+              "position": 3
+            },
+            {
+              "id": "807261771182243850",
+              "name": "Tides",
+              "color": "#9DEFD7",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/462240921019482112/807ee4086d020573c363cd40891cb313.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1260001848442749009",
+        "channelId": "1114213068851912735",
+        "guildId": "444549359745499146"
+      }
+    },
+    {
+      "id": "1260008775260045353",
+      "type": "Default",
+      "timestamp": "2024-07-08T19:05:01.853-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I believe. It’s not too bad. Honestly the most annoying one is green because it’s a dunk",
+      "author": {
+        "id": "462240921019482112",
+        "name": "extinks",
+        "discriminator": "0000",
+        "nickname": "Extinks",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          },
+          {
+            "id": "1138933482911973459",
+            "name": "Coffee Golf Tester",
+            "color": "#009221",
+            "position": 3
+          },
+          {
+            "id": "807261771182243850",
+            "name": "Tides",
+            "color": "#9DEFD7",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/462240921019482112/807ee4086d020573c363cd40891cb313.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1260062102488354967",
+      "type": "Default",
+      "timestamp": "2024-07-08T22:36:56.055-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n10 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE5\uD83D\uDFE9\uD83D\uDFE8\uD83D\uDFEA\uD83D\uDFE6\n2️⃣2️⃣2️⃣2️⃣2️⃣",
+      "author": {
+        "id": "174562638490107904",
+        "name": "jburd",
+        "discriminator": "0000",
+        "nickname": "JBurd",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/174562638490107904/a_681547cb186bdad3e6fa2e90b9018320.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1260062166288040020",
+      "type": "Default",
+      "timestamp": "2024-07-08T22:37:11.266-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Didn't bother improving past 10 lol",
+      "author": {
+        "id": "174562638490107904",
+        "name": "jburd",
+        "discriminator": "0000",
+        "nickname": "JBurd",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/174562638490107904/a_681547cb186bdad3e6fa2e90b9018320.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1260074735329607711",
+      "type": "Default",
+      "timestamp": "2024-07-08T23:27:07.959-04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coffee Golf - July 8\n8 Strokes - Top 1% \uD83C\uDFC6\n\n\uD83D\uDFE8\uD83D\uDFE6\uD83D\uDFEA\uD83D\uDFE9\uD83D\uDFE5\n1️⃣2️⃣1️⃣2️⃣2️⃣",
+      "author": {
+        "id": "972205491843379280",
+        "name": "kparker_",
+        "discriminator": "0000",
+        "nickname": "kparker",
+        "color": "#A7FF00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1122853970675781695",
+            "name": "Coffee Golf",
+            "color": "#A7FF00",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/972205491843379280/f406c8d989e93cd4261e82e0280aefb8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 48
+}

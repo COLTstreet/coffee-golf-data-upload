@@ -1,0 +1,14 @@
+{
+  "name": "coffee-golf-data",
+  "version": "1.0.0",
+  "description": "upload json coffee golf data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "colt street",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^12.2.0"
+  }
+}
